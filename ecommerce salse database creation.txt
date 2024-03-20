@@ -1,0 +1,39 @@
+create table country_table (
+          order_id         varchar(50)      primary key,
+          country             varchar(50)              ,
+          city                varchar(50)              ,
+          state               varchar(50)              ,
+          postal_code         int                      ,
+          region              varchar(50)
+                        );
+
+
+create table order_table (
+        order_no             int                 primary key,
+        year                 varchar(20)                 ,
+        order_date           timestamp                   ,
+        ship_date            timestamp                   ,
+        ship_mode            varchar(50)                 ,
+        sales_price          double                      ,
+        quantity             int                         ,
+        discount             double                      ,
+        profit               double              
+                       );
+        
+create table product_table (
+       product_id           varchar(50)         primary key,
+       category             varchar(50)                 ,
+       sub_category         varchar(50)                 ,
+       product_name         varchar(200) 
+                       );
+
+create table relational_table (
+       order_no             int                 primary key,
+       product_id           varchar(50)                ,
+       customer_id          varchar(50)                ,
+       order_id             varchar(50)                ,
+                foreign key (product_id) references product_table (product_id),
+                foreign key (customer_id) references customer_table (customer_id),
+                foreign key (order_id) references country_table (order_id)
+                );
+                       
