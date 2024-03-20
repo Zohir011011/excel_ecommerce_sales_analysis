@@ -27,7 +27,9 @@ A relational database was created using MySQL to manage the collected dataset ef
 
 
 ## Exploratory Data Analysis using SQL:
-    In this e-commerce sales analysis project, various SQL queries were used to extract insights from the dataset. Each query addresses specific aspects of sales performance, customer behavior, and regional trends. Below are the queries along with their potential 
+    In this e-commerce sales analysis project, various SQL queries were used to extract insights from the dataset. 
+    Each query addresses specific aspects of sales performance, customer behavior, and regional trends. 
+    Below are the queries along with their potential 
     business benefits:
           1.	Total Sales, Quantity, and Profit
           2.	Sales, Quantity, and Profit per Year
@@ -46,11 +48,13 @@ A relational database was created using MySQL to manage the collected dataset ef
           15.	Most Profitable Product Category
           16.	Most Profitable Subcategory
           17.	Most Sold Product Category in a Specific Region and Year
-    By analyzing these aspects of sales data, the e-commerce company can gain valuable insights into its performance, customer behavior, and market trends, thereby informing strategic decisions to drive growth and profitability.
+    By analyzing these aspects of sales data, the e-commerce company can gain valuable insights into its performance, 
+    customer behavior, and market trends, thereby informing strategic decisions to drive growth and profitability.
 
 
 ## Dashboard Components: The dashboard was created using Microsoft Excel and includes the following components:
-         1.	Key Performance Indicators (KPIs) displaying total sales, profits, quantities sold, orders, and profit margins, with year-on-year growth rates for comparison.
+         1.	Key Performance Indicators (KPIs) displaying total sales, profits, quantities sold, orders, and 
+         profit margins, with year-on-year growth rates for comparison.
          2.	Combo Chart visualizing month-wise sales and profit comparisons.
          3.	Waterfall Chart illustrating total profit breakdown by product category.
          4.	Donut Chart showing the percentage of sales contributed by each product category.
@@ -59,7 +63,8 @@ A relational database was created using MySQL to manage the collected dataset ef
 
 ## User Experience Features: The dashboard offers user-friendly features, including:
          1.	Filters allow users to refine data by year, consumer segment, and region.
-         2.	Shortcut buttons for easy access to the dashboard, data analysis sheet, and options to share the dashboard via email or the company's website.
+         2.	Shortcut buttons for easy access to the dashboard, data analysis sheet, and options to share 
+         the dashboard via email or the company's website.
 
 
 ## Conclusion: 
