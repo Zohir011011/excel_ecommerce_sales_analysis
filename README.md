@@ -5,7 +5,8 @@
 This project entails a comprehensive sales analysis for a USA-based e-commerce company named 'ABC Company'. The company operates nationwide and aims to expand its business in the upcoming years. To facilitate this decision-making process, the CEO has tasked the sales manager with providing insights into total sales, profits, orders, and growth rates over the years. Additionally, the CEO seeks to understand the impact of various factors such as region, product category, and subcategory on these performance metrics.
 
 
-## Problem Statement: The primary challenge is to analyze the company's sales performance and identify key trends and insights to support strategic decision-making. Specifically, the CEO requires insights into total sales, profits, orders, profit margins, and year-on-year growth rates. Furthermore, understanding the most profitable product categories, subcategories, states, and regions is crucial for informed decision-making.
+## Problem Statement: 
+The primary challenge is to analyze the company's sales performance and identify key trends and insights to support strategic decision-making. Specifically, the CEO requires insights into total sales, profits, orders, profit margins, and year-on-year growth rates. Furthermore, understanding the most profitable product categories, subcategories, states, and regions is crucial for informed decision-making.
 
 
 ##Objectives:
